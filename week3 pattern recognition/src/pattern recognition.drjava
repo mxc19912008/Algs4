@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20140826-r5761">
+  <project autorefresh="false" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="FastCollinearPoints.java" package="" timestamp="28-Jun-2017 23:43:46">
+        <select from="1581" to="1581"/>
+        <scroll column="886" row="0"/>
+      </file>
+      <file name="LineSegment.java" package="" timestamp="14-Feb-2016 09:12:27">
+        <select from="1581" to="1581"/>
+        <scroll column="886" row="0"/>
+      </file>
+      <file name="Point.java" package="" timestamp="28-Jun-2017 01:25:23">
+        <select from="1581" to="1581"/>
+        <scroll column="886" row="0"/>
+      </file>
+      <file name="BruteCollinearPoints.java" package="" timestamp="28-Jun-2017 23:43:48">
+        <select from="1581" to="1581"/>
+        <scroll column="886" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>

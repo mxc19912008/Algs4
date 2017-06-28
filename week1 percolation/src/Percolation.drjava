@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20140826-r5761">
+  <project autorefresh="false" build="" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file name="InteractivePercolationVisualizer.java" package="" timestamp="15-Jul-2016 11:32:04">
+        <select from="1548" to="1548"/>
+        <scroll column="531" row="0"/>
+      </file>
+      <file name="PercolationVisualizer.java" package="" timestamp="29-May-2017 10:52:18">
+        <select from="1548" to="1548"/>
+        <scroll column="531" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
